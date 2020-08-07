@@ -1,0 +1,13 @@
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.exe
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.deps.json
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.runtimeconfig.json
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.runtimeconfig.dev.json
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.dll
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\bin\Debug\netcoreapp3.1\Lab14-MVCContriesApp.pdb
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.csprojAssemblyReference.cache
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.AssemblyInfoInputs.cache
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.AssemblyInfo.cs
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.csproj.CoreCompileInputs.cache
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.dll
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.pdb
+C:\Users\herri\source\repos\Lab14-MVCContriesApp\obj\Debug\netcoreapp3.1\Lab14-MVCContriesApp.genruntimeconfig.cache
